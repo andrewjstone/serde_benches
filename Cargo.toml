@@ -8,4 +8,7 @@ serde = "1.0"
 serde_derive = "1.0"
 rmp = "0.8"
 rmp-serde = "0.13"
-bincode = {path = "../bincode"}
+bincode = "0.8"
+serde_json = "1.0"
+serde_cbor = "0.6"
+
